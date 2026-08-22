@@ -1,0 +1,6 @@
+smtp_server: "smtp.gmail.com"
+smtp_port: 587
+email_user: "chauhanvishal365@gmail.com" #your admin/master email
+email_pass: "<your app genrated pass>"  #your app password
+alert_recipient: "devchvishal@gmail.com"  #your recipien email
+
